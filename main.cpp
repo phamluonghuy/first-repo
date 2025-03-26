@@ -1,6 +1,5 @@
 #include string
-void main()
+int main()
 {
-	cout << "long time no see";
-	cout << "Water!!! why you ignore me??? ";
+	cout << "Water!!!??? ";
 }
