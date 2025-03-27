@@ -1,10 +1,9 @@
 #include "character.h"
 #include "Monster.h"
 
-void function();
+void dev();
 
 int main()
 {
 	cout << "!!!??? ";
-	cout << "Water!!!";
 }
